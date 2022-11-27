@@ -1,0 +1,13 @@
+{
+    "tenant_id": [
+      "UTEC"
+    ],
+    "saturacion_oxigeno": [
+      {
+        "numeric": [
+          "<",
+          92
+        ]
+      }
+    ]
+  }
